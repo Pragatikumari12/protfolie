@@ -1,0 +1,37 @@
+body{
+    background-color: #232323;
+}
+.homepage{
+    height: 80vh;
+}
+.aboutimageborder{
+    border:15px solid rgb(199, 232, 36);
+}
+.aboutimage{
+    height: 500px;
+    position:relative;
+    margin:-65px 30px 30px -65px;
+
+}
+.nav-item{
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    color: #54726a0b;
+    font-size: 200px;
+    font-weight: 700;
+    position: relative;
+    margin: -285px 0 0 0;;
+    z-index: -1;
+}
+.contact{
+    background-color: seagreen;
+}
+.service-box{
+    box-shadow: 0px 1px 2px rgb(11, 11, 11);
+    /* margin-left: 20px;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px; */
+}
